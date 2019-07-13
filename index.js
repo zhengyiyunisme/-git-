@@ -5,3 +5,4 @@ router.base(1,(a,b)=>{
 router.base(2,(a,b)=>{
 	return (a+b);
 });
+console.log('nihao ');
