@@ -2,4 +2,4 @@ exports.fun=(a,b)=>{
 	var c=a+b;
 	return c;
 }
-dev修改
+master里面修改
