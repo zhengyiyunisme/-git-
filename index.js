@@ -6,4 +6,4 @@ router.base(2,(a,b)=>{
 	return (a+b);
 });
 console.log('nihao ');
-as as aa
+as as aa dsd
